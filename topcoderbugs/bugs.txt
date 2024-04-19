@@ -1,0 +1,29 @@
+
+******************* Bug 1 ************************
+
+**Bug Title:** Placeholder is hidden behind the dropdown icon
+**Steps to Reproduce:**
+    1.On the product page if you see the dropdown for author section, the placeholder is hidden by the dropdown icon
+    2. Hit https://www.topcoder.com in the same browser and see - PFA placeholder image file
+**Actual Result:**
+    1.  text should be visible and not hidden
+
+
+******************* Bug 2 ************************
+
+**Bug Title:**�� "Content Missing on the Documents page"
+**Steps to Reproduce:**�� "Should be able to fetch the content and title of the respective documents."
+**Actual Result:**��<Actual result after reproduction steps>
+Expected Result:��<Expected result after reproduction steps>
+**Screenshots or screencast URL:**�� https://platform.topcoder.com/model
+
+
+******************* Bug 3 ************************
+**Bug Title:**�� "Misalignment of title"
+**Steps to Reproduce:**��Should be centred from all corners
+**Actual Result:**��<Actual result after reproduction steps>
+Expected Result:��<Expected result after reproduction steps>
+**Screenshots or screencast URL:**�� https://platform.topcoder.com/
+Device/OS/Browser Information: MacOS
+
+
